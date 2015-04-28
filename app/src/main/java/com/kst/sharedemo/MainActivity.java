@@ -26,6 +26,10 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
 
     private TextView textView;
 
+    /**
+     * wly创建
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
