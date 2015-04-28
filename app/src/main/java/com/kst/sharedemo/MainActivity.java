@@ -25,7 +25,6 @@ import m.framework.utils.UIHandler;
 public class MainActivity extends ActionBarActivity implements View.OnClickListener, PlatformActionListener {
 
     private TextView textView;
-
     /**
      * wly创建
      * @param savedInstanceState
