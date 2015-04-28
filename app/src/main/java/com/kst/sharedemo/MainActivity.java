@@ -26,7 +26,6 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
 
     private TextView textView;
 
-
     /**
      * wly创建
      * @param savedInstanceState
