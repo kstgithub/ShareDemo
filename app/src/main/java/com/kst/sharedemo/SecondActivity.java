@@ -5,7 +5,9 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-
+/**
+ * aaaaaaaaaa
+ */
 public class SecondActivity extends ActionBarActivity {
 
     @Override
