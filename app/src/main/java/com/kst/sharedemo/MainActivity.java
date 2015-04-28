@@ -20,7 +20,7 @@ import m.framework.utils.UIHandler;
 
 /**
  * MainActivity
- *
+ *我是张东方
  */
 public class MainActivity extends ActionBarActivity implements View.OnClickListener, PlatformActionListener {
 
@@ -78,7 +78,7 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.text:
-//                showShare();
+               showShare();
                 authorize();
                 break;
         }
