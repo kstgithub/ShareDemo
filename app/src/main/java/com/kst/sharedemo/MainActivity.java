@@ -17,14 +17,19 @@ import cn.sharesdk.framework.ShareSDK;
 import cn.sharesdk.onekeyshare.OnekeyShare;
 import cn.sharesdk.tencent.qq.QQ;
 import m.framework.utils.UIHandler;
+/**
+ * 孔淑婷
+ */
+
 
 /**
  * MainActivity
- *我是张东方
+ *
  */
 public class MainActivity extends ActionBarActivity implements View.OnClickListener, PlatformActionListener {
 
     private TextView textView;
+
     /**
      * wly创建
      * @param savedInstanceState
@@ -81,7 +86,7 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.text:
-               showShare();
+//                showShare();
                 authorize();
                 break;
         }
